@@ -22,7 +22,7 @@ int main() {
     Carta cartas[32];
     int numCartas;
 
-    printf("Bem vindo ao SUPER TRUNFO\n");
+    printf("Bem vindo ao Super Trunfo\n");
     printf("Quantas cartas deseja cadastrar? ");
     scanf("%d", &numCartas);
 
